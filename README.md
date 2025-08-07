@@ -39,18 +39,21 @@
 
 ---
 
-## 📱 Screenshots
+## 📱 Preview & Screenshots
 
 <div align="center">
 
-### Onboarding Experience
-![Onboarding](assets/images/banner-1.png)
+### App Preview
+![App Preview 1](preview/1.jpg)
+![App Preview 2](preview/2.jpg)
+![App Preview 3](preview/3.jpg)
+![App Preview 4](preview/4.jpg)
+![App Preview 5](preview/5.jpg)
 
-### Task Creation
-![Add Task](assets/images/banner-2.png)
-
-### Team Collaboration
-![Team Work](assets/images/banner-3.png)
+### Key Features Showcase
+![Onboarding Experience](assets/images/banner-1.png)
+![Task Creation Interface](assets/images/banner-2.png)
+![Team Collaboration](assets/images/banner-3.png)
 
 </div>
 
