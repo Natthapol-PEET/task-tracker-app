@@ -44,11 +44,16 @@
 <div align="center">
 
 ### App Preview
-![App Preview 1](preview/1.jpg)
-![App Preview 2](preview/2.jpg)
-![App Preview 3](preview/3.jpg)
-![App Preview 4](preview/4.jpg)
-![App Preview 5](preview/5.jpg)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="preview/1.jpg" alt="App Preview 1" width="200" />
+  <img src="preview/2.jpg" alt="App Preview 2" width="200" />
+  <img src="preview/3.jpg" alt="App Preview 3" width="200" />
+</div>
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="preview/4.jpg" alt="App Preview 4" width="200" />
+  <img src="preview/5.jpg" alt="App Preview 5" width="200" />
+</div>
 
 ### Key Features Showcase
 ![Onboarding Experience](assets/images/banner-1.png)
